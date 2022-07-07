@@ -5,7 +5,7 @@ body{
     
 }
 .first-page{
-    background-image: url(./donation13.jpg);
+    background-image: url(./donation100.jpg);
     padding-bottom: 150px;
     background-position: center;
     background-repeat: no-repeat;
@@ -26,6 +26,7 @@ span{
 .header-class{
     font-family: 'Poppins', sans-serif;
     font-size: 50px;
+    
 }
 
 
