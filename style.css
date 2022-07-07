@@ -10,6 +10,8 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+   
+    
     
 }
 span{
@@ -47,6 +49,7 @@ span{
     padding-top: 60px;
     text-align: center;
     font-size: 25px;
+    
 }
 .donation-container{
     padding-top: 16px;
@@ -55,6 +58,7 @@ span{
     margin-left: 100px;
     margin-right: 60px;
     color: gray;
+    
 }
 .donation-box{
     border: 3px solid rgb(245, 243, 243);
@@ -77,6 +81,8 @@ span{
     padding-top: 10px;
     text-align: center;
     color: gray;
+    
+    
 }
 #thematic-break{
     width: 50%;
@@ -89,6 +95,7 @@ span{
     margin: 30px;
     padding: 20px;
     background-image: linear-gradient(rgb(171, 174, 175), rgb(231, 231, 167));
+    padding: 0;
 }
 .fourth-page-container{
     padding-top: 5px;
@@ -100,11 +107,14 @@ span{
     padding-bottom: 50px;
     width: 100%;
     padding-left: 70px;
+   
 }
 .fifth-page img{
-    width: 70%;
+    width: 75%;
     padding-left: 60px;
     padding-top: 45px;
+    padding-right: 0;
+    
 }
 .fifth-page-class{
     font-size: 25px;
@@ -112,6 +122,7 @@ span{
 }
 .footer-container{
     padding-bottom: 70px;
+   
 }
 .footer-container-class{
     display: flex;
@@ -121,6 +132,7 @@ span{
     margin-right: 300px;
     margin-left: 300px;
     border: 2px solid gray;
+    
 }
 
 
