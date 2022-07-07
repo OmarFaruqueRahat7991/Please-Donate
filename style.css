@@ -122,3 +122,18 @@ span{
     margin-left: 300px;
     border: 2px solid gray;
 }
+
+
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#font{
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    color: rgb(230, 25, 25);
+}
